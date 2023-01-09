@@ -148,7 +148,7 @@ _Descrição em breve..._
 ## Vanyrie* [500 XP]
 
 <div align="left">
-    <img src="C:\Users\L\OneDrive\Atualização RPG\Notes\エルの世界\System\Raças.assets\image-20220310154355460.png" height="450px"/>
+    <img src="https://github.com/Eru-RPG/temporary-files-rpg/blob/main/assets/vanyrie.jpg" height="450px"/>
 </div>
 
 ### Características
