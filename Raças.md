@@ -16,7 +16,7 @@ _Descrição em breve..._
 
 * **HP**: 30 + 2 por nível
 * **MP**: 10 + 1 por nível
-* **Resistência Mágica**: 10 + 1 a cada 2 níveis
+* **Resistência Mágica**: 5 + 1 a cada 2 níveis
 * **Genki**: Nível x10
 * **+1 Constituição** ou **+1 Força** por nível
 
